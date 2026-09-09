@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Cybersecurity+Enthusiast;UX%2FUI+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Tecnólogo+en+Software;Entusiasta+de+Ciberseguridad;Diseñador+UX%2FUI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,9 +17,9 @@
 
 ## Sobre Mí
 
-Soy **Tecnólogo en Desarrollo de Software** radicado en Ecuador, con un enfoque profundo en Ingeniería de Software y Ciberseguridad. Me dedico a crear soluciones tecnológicas eficientes y altamente escalables, logrando un equilibrio entre un backend robusto y un diseño de interfaces (UX/UI) altamente intuitivo.
+Soy **Tecnólogo en Desarrollo de Software** radicado en Ecuador, con un enfoque profundo en ciberseguridad y arquitectura de software. Me dedico a crear soluciones tecnológicas eficientes y altamente escalables, logrando un equilibrio entre un backend robusto y un diseño de interfaces (UX/UI) altamente intuitivo.
 
-- Actualmente trabajando en perfeccionar mis habilidades como **Full Stack Developer** y arquitecto de software.
+- Actualmente trabajando en perfeccionar mis habilidades como **Desarrollador Full Stack**.
 - Enfocado en la implementación de arquitecturas limpias, desarrollo móvil multiplataforma y despliegues en la nube.
 - Ampliando mis conocimientos técnicos en el área de ciberseguridad, análisis de vulnerabilidades y pentesting.
 - Fuera de la programación, soy un apasionado del motociclismo (dedicando tiempo a la mecánica de mi CFMOTO 250NK), sigo de cerca a LDU Quito y mantengo un estilo de vida enfocado en la disciplina física.
@@ -80,10 +80,10 @@ A continuación, una selección de aplicaciones y plataformas en las que he impl
 ## Estadísticas y Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergio001gs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio001gs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio001gx2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
