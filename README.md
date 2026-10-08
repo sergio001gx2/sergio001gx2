@@ -22,9 +22,6 @@ Soy **Tecnólogo en Desarrollo de Software** radicado en Ecuador, con un enfoque
 - Actualmente trabajando en perfeccionar mis habilidades como **Desarrollador Full Stack**.
 - Enfocado en la implementación de arquitecturas limpias, desarrollo móvil multiplataforma y despliegues en la nube.
 - Ampliando mis conocimientos técnicos en el área de ciberseguridad, análisis de vulnerabilidades y pentesting.
-- Fuera de la programación, soy un apasionado del motociclismo (dedicando tiempo a la mecánica de mi CFMOTO 250NK), sigo de cerca a LDU Quito y mantengo un estilo de vida enfocado en la disciplina física.
-- **Dato curioso:** Aplico el mismo nivel de análisis y optimización tanto en el código de mis proyectos como en el rendimiento de mi motocicleta.
-
 ---
 
 ## Stack Tecnológico
