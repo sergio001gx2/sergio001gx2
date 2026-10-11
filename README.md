@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Software%20Engineering%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollo%20de%20Software%20%C2%B7%20Full%20Stack%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Construyendo+soluciones%2C+un+commit+a+la+vez;Desarrollo+Web+%26+M%C3%B3vil+Full+Stack;Explorando+Ciberseguridad+%26+IoT;Siempre+aprendiendo%2C+siempre+creando" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Desarrollo+Web+%26+M%C3%B3vil+Full+Stack;Backend%2C+APIs+y+Bases+de+Datos;Explorando+Ciberseguridad+%26+IoT;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG"/>
   </a>
   <br/>
 
@@ -37,13 +37,16 @@
 
 ```yaml
 nombre: Sergio Gómez
+perfil: Tecnólogo en Desarrollo de Software
 ubicación: Ecuador
-rol: Desarrollador de Software
-enfoque: Full Stack · Backend & APIs · Ciberseguridad · IoT
-filosofía: Aprender, construir, probar, mejorar.
+intereses:
+  - Desarrollo Web y Móvil
+  - Backend, APIs y Bases de Datos
+  - Ciberseguridad y Redes
+  - IoT y Hardware
 ```
 
-Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad. Trabajo a lo largo de todo el stack: interfaces web/móvil, APIs backend, bases de datos y despliegues en la nube.
+Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la interfaz hasta el backend, las bases de datos y el despliegue. También me interesa bastante la seguridad informática y experimentar con electrónica e IoT.
 
 </td>
   </tr>
@@ -52,18 +55,18 @@ Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>// ÁREAS DE ENFOQUE</b>
+      <b>// LO QUE HAGO</b>
       <br/><br/>
       • Aplicaciones web y móviles<br/>
-      • Diseño e integración de APIs REST<br/>
-      • Bases de datos relacionales y NoSQL
+      • APIs REST y servicios backend<br/>
+      • Bases de datos SQL y NoSQL
     </td>
     <td width="50%" valign="top">
-      <b>// EXPLORANDO</b>
+      <b>// EXPERIMENTANDO</b>
       <br/><br/>
-      • Desarrollo seguro y herramientas SIEM<br/>
-      • Contenedores y despliegue cloud<br/>
-      • IoT e integración con hardware
+      • Herramientas SIEM y seguridad defensiva<br/>
+      • Docker y despliegues en la nube<br/>
+      • Sensores y placas de desarrollo
     </td>
   </tr>
 </table>
@@ -101,13 +104,13 @@ Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad
 
 <a id="featured-projects"></a>
 
-> ls ./proyectos-destacados
+> ls ./proyectos
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <b>CSER Web Platform</b><br/>
-      <sub>Plataforma web con interfaz accesible y moderna.</sub>
+      <sub>Plataforma web con diseño adaptable y accesible.</sub>
       <br/><br/>
       <code>Responsive</code> <code>Vercel</code>
       <br/><br/>
@@ -115,7 +118,7 @@ Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad
     </td>
     <td width="50%" valign="top">
       <b>CodeAcademy API</b><br/>
-      <sub>Servicios backend para plataforma de aprendizaje digital.</sub>
+      <sub>Backend para plataforma de cursos y aprendizaje.</sub>
       <br/><br/>
       <code>Django REST</code> <code>PostgreSQL</code> <code>JWT</code>
       <br/><br/>
@@ -125,36 +128,36 @@ Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad
   <tr>
     <td width="50%" valign="top">
       <b>DJ Bee11 Apps</b><br/>
-      <sub>Ecosistema de aplicaciones interactivas con diseño funcional.</sub>
+      <sub>Conjunto de aplicaciones web interactivas.</sub>
       <br/><br/>
-      <code>Web Apps</code> <code>Diseño UI</code> <code>Vercel</code>
+      <code>Web Apps</code> <code>UI Design</code> <code>Vercel</code>
       <br/><br/>
       <a href="https://dj-bee11-sergio001gs-projects.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-007ACC?style=flat-square&logo=vercel&logoColor=white" alt="Ver Demo"/></a>
     </td>
     <td width="50%" valign="top">
       <b>ShieldFlow API Gateway</b><br/>
-      <sub>Arquitectura de pasarela e integración de microservicios con seguridad.</sub>
+      <sub>Pasarela de servicios con autenticación y filtros de seguridad.</sub>
       <br/><br/>
-      <code>Backend</code> <code>Arquitectura API</code> <code>Seguridad</code>
+      <code>Backend</code> <code>API Gateway</code> <code>Seguridad</code>
       <br/><br/>
       <a href="https://github.com/sergio001gx2/shieldflow-api-gateway"><img src="https://img.shields.io/badge/C%C3%B3digo_Fuente-0D1117?style=flat-square&logo=github&logoColor=white" alt="Código Fuente"/></a>
     </td>
   </tr>
 </table>
 
-### En desarrollo activo
+### En desarrollo
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <b>SentinelSOC</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
-      <sub>Plataforma SIEM/SOC para procesar registros, detectar actividad maliciosa y gestionar alertas.</sub>
+      <sub>Plataforma de monitoreo y detección de intrusiones a partir de logs.</sub>
       <br/><br/>
       <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
-      <b>Monitoreo de Sensores IoT</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
-      <sub>Sistema Arduino que transmite telemetría hacia un backend y visualiza métricas en tiempo real.</sub>
+      <b>Monitoreo IoT</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
+      <sub>Lectura de sensores con Arduino y transmisión de datos a un panel web.</sub>
       <br/><br/>
       <code>Arduino</code> <code>C++</code> <code>Python</code> <code>MQTT</code>
     </td>
@@ -179,7 +182,7 @@ Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad
 > connect --with-sergio
 
 <div align="center">
-  Abierto a conectar con desarrolladores, conversar sobre ingeniería de software, colaborar en proyectos y explorar nuevas oportunidades.
+  Si quieres hablar sobre desarrollo, colaborar en algún proyecto o intercambiar ideas, puedes escribirme:
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/sergio-gabriel-g%C3%B3mez-a19a63432"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -187,5 +190,4 @@ Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad
   <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer" width="100%" alt=""/>
-  <sub>Diseñado con curiosidad, construido con código.</sub>
 </div>
