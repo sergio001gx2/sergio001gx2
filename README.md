@@ -1,146 +1,202 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineering%20%C2%B7%20Cybersecurity&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Building+solutions%2C+one+commit+at+a+time;Full+Stack+Web+%26+Mobile+Development;Exploring+Cybersecurity+%26+IoT;Always+learning%2C+always+building" alt="Typing SVG"/> </a> <br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Ingenier%C3%ADa%20de%20Software%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Construyendo+soluciones%2C+un+commit+a+la+vez;Desarrollo+Web+%26+M%C3%B3vil+Full+Stack;Explorando+Ciberseguridad+%26+IoT;Siempre+aprendiendo%2C+siempre+creando" alt="Typing SVG"/>
+  </a>
+  <br/>
 
-<a href="https://github.com/sergio001gx2"><img src="https://img.shields.io/badge/GitHub-sergio001gx2-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=30363D" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sergio-gabriel-g%C3%B3mez-a19a63432"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=30363D" alt="LinkedIn"/></a> <a href="mailto:sergio.gomezc13c@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&labelColor=0D1117&color=30363D" alt="Email"/></a> <img src="https://img.shields.io/badge/Ecuador-%F0%9F%87%AA%F0%9F%87%A8-0D1117?style=flat-square&labelColor=0D1117&color=30363D" alt="Ecuador"/>
+  <a href="https://github.com/sergio001gx2"><img src="https://img.shields.io/badge/GitHub-sergio001gx2-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=30363D" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sergio-gabriel-g%C3%B3mez-a19a63432"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=30363D" alt="LinkedIn"/></a>
+  <a href="mailto:sergio.gomezc13c@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=30363D" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Ecuador-0D1117?style=flat-square&logo=googlemaps&logoColor=38BDF8&labelColor=0D1117&color=30363D" alt="Ubicación Ecuador"/>
 
-<br/><br/>
+  <br/><br/>
 
-<a href="#about"><b>About</b></a>  ·  <a href="#tech-stack"><b>Stack</b></a>  ·  <a href="#featured-projects"><b>Projects</b></a>  ·  <a href="#github-analytics"><b>Stats</b></a>  ·  <a href="#connect"><b>Contact</b></a>
+  <a href="#about"><b>Sobre mí</b></a> &nbsp;·&nbsp; 
+  <a href="#tech-stack"><b>Tecnologías</b></a> &nbsp;·&nbsp; 
+  <a href="#featured-projects"><b>Proyectos</b></a> &nbsp;·&nbsp; 
+  <a href="#github-analytics"><b>Estadísticas</b></a> &nbsp;·&nbsp; 
+  <a href="#connect"><b>Contacto</b></a>
+</div>
 
-</div> <br/>
+<br/>
 
 <a id="about"></a>
 
 > whoami
-yaml
-name: Sergio Gómez
-location: Ecuador
-role: Software Developer
-focus:
-  - Full Stack Development
-  - Backend Architecture & APIs
-  - Mobile Applications
-  - Cybersecurity
-  - IoT & Data Analysis
-mindset: Learn, build, test, improve.
 
-I'm a Software Development technologist passionate about building practical software, designing intuitive interfaces, and understanding how systems work behind the scenes.
+```yaml
+nombre: Sergio Gómez
+ubicación: Ecuador
+rol: Desarrollador de Software
+enfoque:
+  - Desarrollo Full Stack
+  - Arquitectura Backend y APIs
+  - Aplicaciones Móviles
+  - Ciberseguridad
+  - IoT y Análisis de Datos
+filosofía: Aprender, construir, probar, mejorar.
+```
 
-I like working across the whole stack, from frontend experiences to backend services, databases and deployment, while exploring cybersecurity, automation and hardware-integrated projects.
+Soy un profesional en Desarrollo de Software apasionado por crear aplicaciones prácticas, diseñar interfaces intuitivas y comprender el funcionamiento interno de los sistemas.
 
-<table> <tr> <td width="50%" valign="top">
+Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia de usuario en frontend hasta servicios backend, bases de datos y despliegue en la nube, mientras exploro ciberseguridad, automatización y hardware integrado.
 
-🛠 What I do
-
-Web and mobile applications
-REST API design and integration
-Relational and NoSQL databases
-</td> <td width="50%" valign="top">
-
-🔭 What I'm exploring
-
-Secure development
-Containers and cloud deployment
-IoT and hardware integration
-</td> </tr> </table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>// ÁREAS DE ENFOQUE</b>
+      <br/><br/>
+      • Aplicaciones web y móviles<br/>
+      • Diseño e integración de APIs REST<br/>
+      • Bases de datos relacionales y NoSQL
+    </td>
+    <td width="50%" valign="top">
+      <b>// EXPLORANDO</b>
+      <br/><br/>
+      • Desarrollo seguro y herramientas SIEM<br/>
+      • Contenedores y despliegue en la nube<br/>
+      • IoT e integración con hardware
+    </td>
+  </tr>
+</table>
 
 <a id="tech-stack"></a>
 
 > tech_stack --list
-<table> <tr> <td width="140"><sub><b>FRONTEND</b></sub></td> <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite&theme=dark" alt="Frontend"/></td> </tr> <tr> <td><sub><b>BACKEND</b></sub></td> <td><img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,nestjs,java&theme=dark" alt="Backend"/></td> </tr> <tr> <td><sub><b>MOBILE</b></sub></td> <td><img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" alt="Mobile"/></td> </tr> <tr> <td><sub><b>DATA</b></sub></td> <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,anaconda,sklearn&theme=dark" alt="Data"/></td> </tr> <tr> <td><sub><b>DEVOPS & TOOLS</b></sub></td> <td><img src="https://skillicons.dev/icons?i=docker,azure,vercel,git,github,linux,bash,vscode,postman&theme=dark" alt="DevOps and tools"/></td> </tr> <tr> <td><sub><b>EMBEDDED</b></sub></td> <td><img src="https://skillicons.dev/icons?i=arduino,cpp,python&theme=dark" alt="Embedded"/></td> </tr> </table>
+
+<table>
+  <tr>
+    <td width="140"><sub><b>FRONTEND</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite&theme=dark" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td><sub><b>BACKEND</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,nestjs,java&theme=dark" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td><sub><b>MÓVIL</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" alt="Mobile"/></td>
+  </tr>
+  <tr>
+    <td><sub><b>DATOS</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,anaconda,sklearn&theme=dark" alt="Data"/></td>
+  </tr>
+  <tr>
+    <td><sub><b>DEVOPS Y TOOLS</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,azure,vercel,git,github,linux,bash,vscode,postman&theme=dark" alt="DevOps and tools"/></td>
+  </tr>
+  <tr>
+    <td><sub><b>EMBEBIDOS</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,cpp,python&theme=dark" alt="Embedded"/></td>
+  </tr>
+</table>
 
 <a id="featured-projects"></a>
 
-> ls ./featured-projects
+> ls ./proyectos-destacados
+
 <div align="center">
+  <a href="https://cser-web-tau.vercel.app/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001gx2&repo=CSER-Web&theme=tokyonight&hide_border=true" alt="CSER Web Platform"/></a>
+  <a href="https://github.com/sergio001gx2/CodeAcademy_bakend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001gx2&repo=CodeAcademy_bakend&theme=tokyonight&hide_border=true" alt="CodeAcademy Backend"/></a>
+</div>
 
-<a href="https://cser-web-tau.vercel.app/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001gx2&repo=CSER-Web&theme=tokyonight&hide_border=true" alt="CSER Web Platform"/></a> <a href="https://github.com/sergio001gx2/CodeAcademy_bakend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001gx2&repo=CodeAcademy_bakend&theme=tokyonight&hide_border=true" alt="CodeAcademy Backend"/></a>
+<br/>
 
-</div> <br/> <table> <tr> <td width="50%" valign="top">
-CSER Web Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>CSER Web Platform</b><br/>
+      <sub>Plataforma web orientada a una experiencia de usuario accesible y moderna.</sub>
+      <br/><br/>
+      <code>Responsive</code> <code>Vercel</code>
+      <br/><br/>
+      <a href="https://cser-web-tau.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-007ACC?style=flat-square&logo=vercel&logoColor=white" alt="Ver Demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>CodeAcademy API</b><br/>
+      <sub>Servicios backend para una plataforma de aprendizaje digital.</sub>
+      <br/><br/>
+      <code>Django REST</code> <code>PostgreSQL</code> <code>JWT</code>
+      <br/><br/>
+      <a href="https://github.com/sergio001gx2/CodeAcademy_bakend"><img src="https://img.shields.io/badge/C%C3%B3digo_Fuente-0D1117?style=flat-square&logo=github&logoColor=white" alt="Código Fuente"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>DJ Bee11 Apps</b><br/>
+      <sub>Ecosistema de aplicaciones interactivas con diseño funcional.</sub>
+      <br/><br/>
+      <code>Web Apps</code> <code>Diseño UI</code> <code>Vercel</code>
+      <br/><br/>
+      <a href="https://dj-bee11-sergio001gs-projects.vercel.app/"><img src="https://img.shields.io/badge/Ver_Demo-007ACC?style=flat-square&logo=vercel&logoColor=white" alt="Ver Demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>ShieldFlow API Gateway</b><br/>
+      <sub>Arquitectura de pasarela e integración de microservicios con seguridad reforzada.</sub>
+      <br/><br/>
+      <code>Backend</code> <code>Arquitectura API</code> <code>Seguridad</code>
+      <br/><br/>
+      <a href="https://github.com/sergio001gx2/shieldflow-api-gateway"><img src="https://img.shields.io/badge/C%C3%B3digo_Fuente-0D1117?style=flat-square&logo=github&logoColor=white" alt="Código Fuente"/></a>
+    </td>
+  </tr>
+</table>
 
-Web platform focused on a complete and accessible user experience.
+### En desarrollo activo
 
-Responsive Vercel
-
-<a href="https://cser-web-tau.vercel.app/"><b>Live demo ↗</b></a>
-
-</td> <td width="50%" valign="top">
-CodeAcademy API
-
-Backend for an online learning platform.
-
-Django REST PostgreSQL JWT RBAC
-
-<a href="https://github.com/sergio001gx2/CodeAcademy_bakend"><b>Source code ↗</b></a>
-
-</td> </tr> <tr> <td width="50%" valign="top">
-DJ Bee11 Apps
-
-Interactive application ecosystem focused on functional user experiences.
-
-Web apps UI design Vercel
-
-<a href="https://dj-bee11-sergio001gs-projects.vercel.app/"><b>Live demo ↗</b></a>
-
-</td> <td width="50%" valign="top">
-ShieldFlow API Gateway
-
-Gateway architecture and service integration with a security focus.
-
-Backend API architecture Security
-
-<a href="https://github.com/sergio001gx2/shieldflow-api-gateway"><b>Source code ↗</b></a>
-
-</td> </tr> </table>
-Currently building
-<table> <tr> <td width="50%" valign="top">
-
-SentinelSOC  <img src="https://img.shields.io/badge/status-planning-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="planning"/>
-
-Security monitoring platform to process logs, detect suspicious activity and manage alerts.
-
-Python FastAPI React PostgreSQL Docker
-
-</td> <td width="50%" valign="top">
-
-IoT Sensor Monitoring  <img src="https://img.shields.io/badge/status-planning-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="planning"/>
-
-Arduino system that sends sensor readings to a backend and shows real-time data on a web dashboard.
-
-Arduino C++ Python MQTT React
-
-</td> </tr> </table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>SentinelSOC</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
+      <sub>Plataforma de monitoreo de seguridad para procesar registros, detectar actividad maliciosa y gestionar alertas.</sub>
+      <br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Monitoreo de Sensores IoT</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
+      <sub>Sistema Arduino que transmite lecturas de telemetría hacia un backend y visualiza métricas en tiempo real.</sub>
+      <br/><br/>
+      <code>Arduino</code> <code>C++</code> <code>Python</code> <code>MQTT</code>
+    </td>
+  </tr>
+</table>
 
 <a id="github-analytics"></a>
 
 > github --stats
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sergio001gx2&theme=tokyonight&hide_border=true" alt="GitHub streak"/> </div>
-> cat portrait.svg
-<div align="center"> <img src="assets/dotface.svg" width="340" alt="Sergio Gómez - dot-matrix portrait"/>
-
-<sub>Rendered in dots · generated with <code>dotface.py</code></sub>
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+  <br/><br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=sergio001gx2&theme=tokyonight&hide_border=true" alt="Racha en GitHub"/>
 </div>
+
+<br/>
+
+> cat portrait.svg
+
+<div align="center">
+  <img src="assets/dotface_color.svg" width="340" alt="Sergio Gómez - retrato en matriz de puntos"/>
+  <br/>
+  <sub><code>[renderizado en matriz de puntos] · generado con dotface.py</code></sub>
+</div>
+
+<br/>
 
 <a id="connect"></a>
 
 > connect --with-sergio
+
 <div align="center">
+  Abierto a conectar con desarrolladores, conversar sobre ingeniería de software, colaborar en proyectos y explorar nuevas oportunidades.
+  <br/><br/>
 
-Open to connecting with developers, talking software engineering, collaborating on projects and exploring new opportunities.
+  <a href="https://www.linkedin.com/in/sergio-gabriel-g%C3%B3mez-a19a63432"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sergio.gomezc13c@gmail.com"><img src="https://img.shields.io/badge/Email-Enviar_mensaje-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br/><br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/sergio-gabriel-g%C3%B3mez-a19a63432"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:sergio.gomezc13c@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_message-30363D?style=for-the-badge" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer" width="100%" alt=""/>
-
-<sub>Designed with curiosity, built with code.</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer" width="100%" alt=""/>
+  <sub>Diseñado con curiosidad, construido con código.</sub>
 </div>
