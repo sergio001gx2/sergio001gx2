@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Ingenier%C3%ADa%20de%20Software%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Software%20Engineering%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Construyendo+soluciones%2C+un+commit+a+la+vez;Desarrollo+Web+%26+M%C3%B3vil+Full+Stack;Explorando+Ciberseguridad+%26+IoT;Siempre+aprendiendo%2C+siempre+creando" alt="Typing SVG"/>
@@ -26,22 +26,28 @@
 
 > whoami
 
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="assets/dotface_color.svg" width="250" alt="Sergio Gómez"/>
+      <br/>
+      <sub><code>[dotface.svg · avatar]</code></sub>
+    </td>
+    <td width="64%" valign="top">
+
 ```yaml
 nombre: Sergio Gómez
 ubicación: Ecuador
 rol: Desarrollador de Software
-enfoque:
-  - Desarrollo Full Stack
-  - Arquitectura Backend y APIs
-  - Aplicaciones Móviles
-  - Ciberseguridad
-  - IoT y Análisis de Datos
+enfoque: Full Stack · Backend & APIs · Ciberseguridad · IoT
 filosofía: Aprender, construir, probar, mejorar.
 ```
 
-Soy un profesional en Desarrollo de Software apasionado por crear aplicaciones prácticas, diseñar interfaces intuitivas y comprender el funcionamiento interno de los sistemas.
+Desarrollador enfocado en software práctico, arquitecturas sólidas y seguridad. Trabajo a lo largo de todo el stack: interfaces web/móvil, APIs backend, bases de datos y despliegues en la nube.
 
-Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia de usuario en frontend hasta servicios backend, bases de datos y despliegue en la nube, mientras exploro ciberseguridad, automatización y hardware integrado.
+</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -56,7 +62,7 @@ Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia
       <b>// EXPLORANDO</b>
       <br/><br/>
       • Desarrollo seguro y herramientas SIEM<br/>
-      • Contenedores y despliegue en la nube<br/>
+      • Contenedores y despliegue cloud<br/>
       • IoT e integración con hardware
     </td>
   </tr>
@@ -97,18 +103,11 @@ Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia
 
 > ls ./proyectos-destacados
 
-<div align="center">
-  <a href="https://cser-web-tau.vercel.app/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001gx2&repo=CSER-Web&theme=tokyonight&hide_border=true" alt="CSER Web Platform"/></a>
-  <a href="https://github.com/sergio001gx2/CodeAcademy_bakend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001gx2&repo=CodeAcademy_bakend&theme=tokyonight&hide_border=true" alt="CodeAcademy Backend"/></a>
-</div>
-
-<br/>
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <b>CSER Web Platform</b><br/>
-      <sub>Plataforma web orientada a una experiencia de usuario accesible y moderna.</sub>
+      <sub>Plataforma web con interfaz accesible y moderna.</sub>
       <br/><br/>
       <code>Responsive</code> <code>Vercel</code>
       <br/><br/>
@@ -116,7 +115,7 @@ Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia
     </td>
     <td width="50%" valign="top">
       <b>CodeAcademy API</b><br/>
-      <sub>Servicios backend para una plataforma de aprendizaje digital.</sub>
+      <sub>Servicios backend para plataforma de aprendizaje digital.</sub>
       <br/><br/>
       <code>Django REST</code> <code>PostgreSQL</code> <code>JWT</code>
       <br/><br/>
@@ -134,7 +133,7 @@ Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia
     </td>
     <td width="50%" valign="top">
       <b>ShieldFlow API Gateway</b><br/>
-      <sub>Arquitectura de pasarela e integración de microservicios con seguridad reforzada.</sub>
+      <sub>Arquitectura de pasarela e integración de microservicios con seguridad.</sub>
       <br/><br/>
       <code>Backend</code> <code>Arquitectura API</code> <code>Seguridad</code>
       <br/><br/>
@@ -149,13 +148,13 @@ Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia
   <tr>
     <td width="50%" valign="top">
       <b>SentinelSOC</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
-      <sub>Plataforma de monitoreo de seguridad para procesar registros, detectar actividad maliciosa y gestionar alertas.</sub>
+      <sub>Plataforma SIEM/SOC para procesar registros, detectar actividad maliciosa y gestionar alertas.</sub>
       <br/><br/>
       <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
       <b>Monitoreo de Sensores IoT</b> &nbsp;<img src="https://img.shields.io/badge/estado-en_desarrollo-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" alt="en desarrollo"/><br/>
-      <sub>Sistema Arduino que transmite lecturas de telemetría hacia un backend y visualiza métricas en tiempo real.</sub>
+      <sub>Sistema Arduino que transmite telemetría hacia un backend y visualiza métricas en tiempo real.</sub>
       <br/><br/>
       <code>Arduino</code> <code>C++</code> <code>Python</code> <code>MQTT</code>
     </td>
@@ -167,20 +166,10 @@ Me gusta trabajar a lo largo de todo el ciclo tecnológico, desde la experiencia
 > github --stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&locale=es&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&locale=es&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
   <br/><br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=sergio001gx2&theme=tokyonight&hide_border=true" alt="Racha en GitHub"/>
-</div>
-
-<br/>
-
-> cat portrait.svg
-
-<div align="center">
-  <img src="assets/dotface_color.svg" width="340" alt="Sergio Gómez - retrato en matriz de puntos"/>
-  <br/>
-  <sub><code>[renderizado en matriz de puntos] · generado con dotface.py</code></sub>
+  <img width="70%" src="https://streak-stats.demolab.com?user=sergio001gx2&locale=es&theme=tokyonight&hide_border=true" alt="Racha en GitHub"/>
 </div>
 
 <br/>
