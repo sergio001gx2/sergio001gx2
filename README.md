@@ -113,10 +113,10 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
   </tr>
 </table>
 
-> pipeline --live
+> orbit --skills
 
 <div align="center">
-  <img src="assets/pipeline.svg" width="100%" alt="Flujo de datos IoT con filtro de seguridad"/>
+  <img src="assets/orbit.svg" width="100%" alt="Órbita de tecnologías"/>
 </div>
 
 <br/>
