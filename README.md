@@ -192,8 +192,16 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
 > github --stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&locale=es&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&locale=es&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sergio001gx2&show_icons=true&locale=es&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub"/>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=donut-vertical&langs_count=20&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+      </td>
+    </tr>
+  </table>
   <br/><br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=sergio001gx2&locale=es&theme=tokyonight&hide_border=true" alt="Racha en GitHub"/>
   <br/><br/>
