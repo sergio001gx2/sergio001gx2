@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollo%20de%20Software%20%C2%B7%20Full%20Stack%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sergio Gómez"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:123B5D,100:007ACC&text=Sergio%20G%C3%B3mez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollo%20de%20Software%20%C2%B7%20Full%20Stack%20%C2%B7%20Ciberseguridad&descSize=15&descAlignY=60&animation=twinkling" width="100%" alt="Sergio Gómez"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Desarrollo+Web+%26+M%C3%B3vil+Full+Stack;Backend%2C+APIs+y+Bases+de+Datos;Explorando+Ciberseguridad+%26+IoT;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG"/>
@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/sergio-gabriel-g%C3%B3mez-a19a63432"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=30363D" alt="LinkedIn"/></a>
   <a href="mailto:sergio.gomezc13c@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=30363D" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Ecuador-0D1117?style=flat-square&logo=googlemaps&logoColor=38BDF8&labelColor=0D1117&color=30363D" alt="Ubicación Ecuador"/>
+  <a href="https://github.com/sergio001gx2?tab=followers"><img src="https://img.shields.io/github/followers/sergio001gx2?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=30363D&label=Seguidores" alt="Seguidores"/></a>
 
   <br/><br/>
 
@@ -71,6 +72,16 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
   </tr>
 </table>
 
+> cat ./resumen.log
+
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal animada"/>
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:007ACC,100:0D1117" width="100%" alt=""/></div>
+
 <a id="tech-stack"></a>
 
 > tech_stack --list
@@ -101,6 +112,16 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
     <td><img src="https://skillicons.dev/icons?i=arduino,cpp,python&theme=dark" alt="Embedded"/></td>
   </tr>
 </table>
+
+> pipeline --live
+
+<div align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="Flujo de datos IoT con filtro de seguridad"/>
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:007ACC,100:0D1117" width="100%" alt=""/></div>
 
 <a id="featured-projects"></a>
 
@@ -164,6 +185,8 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
   </tr>
 </table>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:007ACC,100:0D1117" width="100%" alt=""/></div>
+
 <a id="github-analytics"></a>
 
 > github --stats
@@ -173,9 +196,13 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001gx2&layout=compact&locale=es&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
   <br/><br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=sergio001gx2&locale=es&theme=tokyonight&hide_border=true" alt="Racha en GitHub"/>
+  <br/><br/>
+  <img width="100%" src="https://ghchart.rshah.org/38BDF8/sergio001gx2" alt="Contribuciones"/>
 </div>
 
 <br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:007ACC,100:0D1117" width="100%" alt=""/></div>
 
 <a id="connect"></a>
 
@@ -189,5 +216,5 @@ Me gusta crear proyectos útiles que funcionen bien: desde el diseño de la inte
   <a href="mailto:sergio.gomezc13c@gmail.com"><img src="https://img.shields.io/badge/Email-Enviar_mensaje-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" alt=""/>
 </div>
